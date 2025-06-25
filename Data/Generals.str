@@ -777,6 +777,10 @@ CONTROLBAR:ConstructAmericaInfantryPathfinder
 "&Pathfinder"
 END
 
+CONTROLBAR:ConstructAmericaInfantryPilot
+"&Pilot"
+END
+
 CONTROLBAR:ConstructAmericaInfantryRanger
 "&Ranger"
 END
@@ -3488,6 +3492,10 @@ END
 
 CONTROLBAR:ToolTipUSABuildPathFinder
 "Sniper Infantry.\n Armed with a long range sniper rifle.\n Detects enemy stealth units.\n Stealthed when not moving.\n\n Strong vs. Infantry\n Weak vs. Vehicles, Aircraft"
+END
+
+CONTROLBAR:ToolTipUSABuildPilot
+"A USA Pilot.\n Armed with no weapons.\n This unit can increase the veterancy of other USA units.\n\n Weak vs. Vehicles, Infantry, Aircraft"
 END
 
 CONTROLBAR:ToolTipUSABuildPatriotBattery
