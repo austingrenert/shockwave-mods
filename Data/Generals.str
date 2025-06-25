@@ -737,6 +737,10 @@ CONTROLBAR:ConstructAmericaCommandCenter
 "&Command Center"
 END
 
+CONTROLBAR:ConstructTechOilDerrick
+"Oil Derrick"
+END
+
 CONTROLBAR:ConstructAmericaDetentionCamp
 "&Detention Camp"
 END
@@ -23960,6 +23964,10 @@ END
 
 OBJECT:TechOilDerrick
 "Oil Derrick -- Capture to receive additional funds"
+END
+
+OBJECT:TechOilDerrick_General
+"Oil Derrick"
 END
 
 OBJECT:TechOilRefinery
