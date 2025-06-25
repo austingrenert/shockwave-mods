@@ -442,6 +442,14 @@ Color:SkyBlue
 "Cyan"
 END
 
+CONTROLBAR:ConstructTechOilDerrick
+"Oil Derrick"
+END
+
+CONTROLBAR:ToolTipBuildTechOilDerrick
+"Generates a resource income of 250 Every 10 seconds"
+END
+
 CONTROLBAR:A10ThunderboltMissileStrike
 "&A10 Missile Strike"
 END
@@ -23960,6 +23968,10 @@ END
 
 OBJECT:TechOilDerrick
 "Oil Derrick -- Capture to receive additional funds"
+END
+
+OBJECT:TechOilDerrick_General
+"Oil Derrick"
 END
 
 OBJECT:TechOilRefinery
